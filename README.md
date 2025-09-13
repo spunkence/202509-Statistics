@@ -8,7 +8,7 @@ Please fill in your gitHUB info in the [Google Sheet](https://docs.google.com/sp
 
 | 序號 | 系所       | 學號       | 姓名   |
 |------|------------|------------|--------|
-| 0 | Prof. | xxxxx| 鄧惠文 [GitHub](https://github.com/venteng)|
+| 0 | Prof. | xxxxx| 鄧惠文 [GitHub](https://github.com/venteng) |
 | 1    | 財金博1    | 414707003  | 李冠佑 |
 | 2    | 財金專3    | 512717027  | 陳昱橙 |
 | 3    | 財金專2    | 513717009  | 宋明峰 |
